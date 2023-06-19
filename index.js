@@ -115,7 +115,7 @@ fetch(url,{
 },
     body:  JSON.stringify(data) 
 })
-    .then( respuesta => respuesta)
+    .then( respuesta => respuesta.json())
     .then( resultado => {
        
          
