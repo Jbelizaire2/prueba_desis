@@ -1,0 +1,4 @@
+1-Clonar el repositorio
+2-Decargar la base de datos en la carpeta BD
+3-Ejecutar el script con el mismo nombre de la BD name prueba_desis
+4-PHP version >=7.4
